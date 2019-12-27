@@ -26,4 +26,4 @@ modulo(25,100)
 def square_root(num)
 sum = Math.sin(19)
 end
-square_root(sum)
+square_root(19)
