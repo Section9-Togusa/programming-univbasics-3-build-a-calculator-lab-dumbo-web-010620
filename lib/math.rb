@@ -11,7 +11,7 @@ subtraction(50,15)
 def division(num1, num2)
 sum = num2 / num1
 end
-division(50,75)
+division(50,2)
 
 def multiplication(num1, num2)
 sum = num1 * num2
