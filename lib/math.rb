@@ -19,5 +19,5 @@ sum = num1 % num2
 end
 
 def square_root(num)
-sum = Math.sin(19)
+sum = Math.square_root(num)
 end
