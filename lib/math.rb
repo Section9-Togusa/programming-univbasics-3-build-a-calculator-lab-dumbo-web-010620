@@ -6,7 +6,7 @@ addition(3,5)
 def subtraction(num1, num2)
   sum = num2 - num1
 end
-subtraction(50,15).to eq(35)
+subtraction(15,50)
 
 def division(num1, num2)
 sum = num2 / num1
