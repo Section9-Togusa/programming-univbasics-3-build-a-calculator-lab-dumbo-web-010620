@@ -6,19 +6,24 @@ addition(3,5)
 def subtraction(num1, num2)
   sum = num2 - num1
 end
+subtraction(15,50)
 
 def division(num1, num2)
 sum = num2 / num1
 end
+division(50,75)
 
 def multiplication(num1, num2)
-sum = num2 * num1
+sum = num1 * num2
 end
+multiplication(4,9)
 
 def modulo(num1, num2)
-sum = num1 % num2
+sum = num2 % num1
 end
+modulo(25,100)
 
 def square_root(num)
-sum = num1 + num2
+sum = Math.sin()
 end
+square_root(18)
